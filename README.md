@@ -40,7 +40,7 @@ Fern can also publish your SDKs to registries, like npm and PyPI. See [Publishin
 
 ### 🌿 Backend code
 
-Define your API, and Fern will generate models, networking code and boilerplate application code. The generated code adds type safety to your API implementation - if your backend doesn't implement the API correctly, it won't compile.
+Define your API, and Fern will generate models, networking code, and boilerplate application code. The generated code adds type safety to your API implementation - if your backend doesn't implement the API correctly, it won't compile.
 
 Fern currently supports:
 
@@ -52,7 +52,7 @@ For a walkthrough, check out the [Fern + Express video](https://buildwithfern.co
 
 ### 🌿 Documentation
 
-Fern provides first class support for generating documentation, ranging from [fully featured documentation websites](https://docs.vellum.ai/api-reference/generate) to Postman Collections. This allows you to always keep your documentation, API and Postman collections in sync with ease.
+Fern provides first-class support for generating documentation, ranging from [fully featured documentation websites](https://docs.vellum.ai/api-reference/generate) to Postman Collections. This allows you to always keep your documentation, API, and Postman collections in sync with ease.
 
 Generating API documentation is part of our cloud offering. If you're interested in trying out this service, [get in touch!](mailto:hey@buildwithfern.com)
 
